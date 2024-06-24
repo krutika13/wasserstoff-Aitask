@@ -1,0 +1,21 @@
+﻿selenium
+webdriver_manager
+python-multipart
+kaleido
+pip>=23.1.2
+langchain
+chromadb==0.4.5
+pypdf==3.15.0
+xformers==0.0.20
+sentence_transformers==2.2.2
+InstructorEmbedding==1.0.1
+pdf2image==1.16.3
+
+
+# Install the following manually:
+# wget https://github.com/PanQiWei/AutoGPTQ/releases/download/v0.4.1/auto_gptq-0.4.1+cu118-cp310-cp310-linux_x86_64.whl
+# pip install auto_gptq-0.4.1+cu118-cp310-cp310-linux_x86_64.whl
+
+
+# System dependency:
+# sudo apt-get install poppler-utils
